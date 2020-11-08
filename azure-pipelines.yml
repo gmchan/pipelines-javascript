@@ -5,6 +5,8 @@
 
 trigger:
 - master
+- az-pipeline
+
 
 pool:
   vmImage: 'ubuntu-latest'
