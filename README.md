@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/gmchan/ProjectGMChan/_apis/build/status/gmchan.pipelines-javascript?branchName=master)](https://dev.azure.com/gmchan/ProjectGMChan/_build/latest?definitionId=1&branchName=master)
+# Build Status: [![Build Status](https://dev.azure.com/gmchan/ProjectGMChan/_apis/build/status/gmchan.pipelines-javascript?branchName=master)](https://dev.azure.com/gmchan/ProjectGMChan/_build/latest?definitionId=1&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
